@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Raj",
+      "phone": "9028775143",
+      "city": "Pune",
+      "position": "CTO"
+    },
+    {
+      "id": 2,
+      "name": "abc",
+      "phone": "9028775143",
+      "city": "Nashik",
+      "position": "Staff "
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
